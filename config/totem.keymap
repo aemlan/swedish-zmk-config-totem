@@ -48,12 +48,12 @@
         };
 
         combo_ae {
-            bindings = <&kp LS(SINGLE_QUOTE)>;
+            bindings = <&kp SINGLE_QUOTE>;
             key-positions = <18 19>;
         };
 
         combo_o {
-            bindings = <&kp LS(SEMICOLON)>;
+            bindings = <&kp SEMICOLON>;
             key-positions = <29 30>;
         };
     };
