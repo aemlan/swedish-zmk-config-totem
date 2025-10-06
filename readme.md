@@ -5,11 +5,11 @@
 </picture>
 
 # Swedish qmk config for totem
-Made to resemble the standard Swedish QWERTY layout. Most symbols and numbers are accessed from layers by holding either space (left thumb) or enter (right thumb).
-Most symbols are placed in a way that would correspond to the approximate location on a standard sized keyboard Swedish keyboard.
-Gaming (wasd) keybinds can be toggled by pressing sdf simultaneously.
-Will provide more information if there happens to be any interest in this fork.
-Feel free to fork this yourself. I recommend editing the config with https://nickcoutsos.github.io/keymap-editor/
+Made to resemble the standard Swedish QWERTY layout. Most symbols and numbers are accessed from layers by holding either space (left thumb) or enter (right thumb).  
+Most symbols are placed in a way that would correspond to the approximate location on a standard sized keyboard Swedish keyboard.  
+Gaming (wasd) keybinds can be toggled by pressing sdf simultaneously.  
+Will provide more information if there happens to be any interest in this fork.  
+Feel free to fork this yourself. I recommend editing the config with https://nickcoutsos.github.io/keymap-editor/.
 
 ## Forked from 
 https://github.com/GEIGEIGEIST/qmk-config-totem
