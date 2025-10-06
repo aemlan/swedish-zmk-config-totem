@@ -111,10 +111,10 @@
 
         shift_symbol_layer {
             bindings = <
-           &kp LS(NUMBER_1)  &kp LS(NUMBER_2)   &kp LS(NUMBER_3)  &kp RA(NUMBER_4)  &kp LS(N5)    &kp LS(NUMBER_6)  &kp LS(N7)  &kp LS(N8)         &kp LS(N9)  &kp LS(N0)
-           &trans            &trans             &trans            &trans            &trans        &trans            &trans      &trans             &kp MINUS   &kp LS(UNDER)
-&kp LCTRL  &kp BACKSLASH     &kp LS(BACKSLASH)  &trans            &trans            &trans        &trans            &trans      &trans             &trans      &trans         &trans
-                                                &trans            &trans            &trans        &trans            &mo 3       &kp LC(BACKSPACE)
+           &kp LS(NUMBER_1)  &kp LS(NUMBER_2)     &kp LS(NUMBER_3)  &kp RA(NUMBER_4)  &kp LS(N5)    &kp LS(NUMBER_6)  &kp LS(N7)  &kp LS(N8)         &kp LS(N9)  &kp LS(N0)
+           &trans            &trans               &trans            &trans            &trans        &trans            &trans      &trans             &kp MINUS   &kp LS(UNDER)
+&kp LCTRL  &kp NON_US_BSLH   &kp LS(NON_US_BSLH)  &trans            &trans            &trans        &trans            &trans      &trans             &trans      &trans         &trans
+                                                  &trans            &trans            &trans        &trans            &mo 3       &kp LC(BACKSPACE)
             >;
         };
 
