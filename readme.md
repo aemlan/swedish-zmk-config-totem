@@ -4,8 +4,8 @@
   <img alt="TOTEM logo font" src="/docs/images/TOTEM_logo_bright.svg">
 </picture>
 
-# Swedish qmk config for totem
-Made to resemble the standard Swedish QWERTY layout. Most symbols and numbers are accessed from layers by holding either space (left thumb) or enter (right thumb).  
+# Swedish qmk config for the Totem keyboard
+Made to resemble the standard Swedish QWERTY layout. Most symbols and numbers are accessed from layers by holding either space (left thumb) or enter (right thumb), or a combination of both.  
 Most symbols are placed in a way that would correspond to the approximate location on a standard sized keyboard Swedish keyboard.  
 Gaming (wasd) keybinds can be toggled by pressing sdf simultaneously.  
 Will provide more information if there happens to be any interest in this fork.  
