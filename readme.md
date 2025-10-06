@@ -4,20 +4,17 @@
   <img alt="TOTEM logo font" src="/docs/images/TOTEM_logo_bright.svg">
 </picture>
 
-# ZMK CONFIG FOR THE TOTEM SPLIT KEYBOARD
+# Swedish qmk config for totem
+Made to resemble the standard Swedish QWERTY layout. Most symbols and numbers are accessed from layers by holding either space (left thumb) or enter (right thumb).
+Most symbols are placed in a way that would correspond to the approximate location on a standard sized keyboard Swedish keyboard.
+Gaming (wasd) keybinds can be toggled by pressing sdf simultaneously.
+Will provide more information if there happens to be any interest in this fork.
+Feel free to fork this yourself. I recommend editing the config with https://nickcoutsos.github.io/keymap-editor/
 
-[Here](https://github.com/GEIGEIGEIST/totem) you can find the hardware files and build guide.\
-[Here](https://github.com/GEIGEIGEIST/qmk-config-totem) you can find the QMK config for the TOTEM.
+## Forked from 
+https://github.com/GEIGEIGEIST/qmk-config-totem
 
-TOTEM is a 38 key column-staggered split keyboard running [ZMK](https://zmk.dev/) or [QMK](https://docs.qmk.fm/). It's meant to be used with a SEEED XIAO BLE or RP2040.
-
-
-![TOTEM layout](/docs/images/TOTEM_layout.svg)
-
-
-
-## HOW TO USE
-
+## How to use
 - fork this repo
 - `git clone` your repo, to create a local copy on your PC (you can use the [command line](https://www.atlassian.com/git/tutorials) or [github desktop](https://desktop.github.com/))
 - adjust the totem.keymap file (find all the keycodes on [the zmk docs pages](https://zmk.dev/docs/codes/))
