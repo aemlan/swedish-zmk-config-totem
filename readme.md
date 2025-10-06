@@ -7,7 +7,7 @@
 # Swedish QMK config for the Totem keyboard
 Made to resemble the standard Swedish QWERTY layout. Most symbols and numbers are accessed from layers by holding either space (left thumb) or enter (right thumb), or a combination of both.  
 Most symbols are placed in a way that would correspond to the approximate location on a standard sized keyboard Swedish keyboard.  
-Gaming (wasd) keybinds can be toggled by pressing sdf simultaneously.
+Gaming (wasd) keybinds can be toggled by pressing sdf simultaneously.  
 Å, Ä and Ö are typed by pressing o+p, l+' and .+- respectively.  
 Feel free to fork this yourself. I recommend editing the config with https://nickcoutsos.github.io/keymap-editor/.
 
