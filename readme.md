@@ -20,6 +20,8 @@ https://github.com/GEIGEIGEIST/qmk-config-totem
 - adjust the totem.keymap file (find all the keycodes on [the zmk docs pages](https://zmk.dev/docs/codes/))
 - `git push` your repo to your fork
 - on the GitHub page of your fork navigate to "Actions"
+- enable actions to run despite the repo being a fork - the action will then run on every new commit
+- commit something to your repo or trigger the action manually
 - scroll down and unzip the `firmware.zip` archive that contains the latest firmware
 - connect the left half of the TOTEM to your PC, press reset twice
 - the keyboard should now appear as a mass storage device
